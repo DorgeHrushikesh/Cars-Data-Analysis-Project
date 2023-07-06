@@ -19,11 +19,11 @@
 ##### Car Sales Analysis - Historical car sales data is analyzed to identify best-selling car models, popular manufacturers and market trends.
 
 ### Installation
-##### It has been used for this project ;
-##### Python (version 3.7 or higher)
-##### Jupyter Notebook
-##### Pandas
-##### Matplotlib
-##### Seaborn
+#### It has been used for this project ;
+##### 1. Python
+##### 2. Jupyter Notebook
+##### 3. Pandas
+##### 4. Matplotlib
+##### 5. Seaborn
 
-## Thanks For Visiting The Page.
+### Thanks For Visiting The Page.
