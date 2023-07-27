@@ -10,7 +10,7 @@
 ##### 4.  Installation
 
 ### Introduction
-##### Data analysis plays a crucial role in the automotive industry, providing valuable insights into various aspects such as sales trends, customer preferences, market competition, and more. This repository aims to explore and analyze car-related data to uncover interesting findings and trends.
+##### In this data analysis project, I utilized Python to explore and analyze the Cars dataset sourced from Kaggle. The primary objective was to gain valuable insights into the dataset and perform various data manipulation tasks.
 
 ### Data Sources
 ##### The data used in these projects is derived from various publicly available datasets related to the automotive industry.
